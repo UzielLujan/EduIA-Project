@@ -1,6 +1,6 @@
-# 📘 EduIA – Asistente Educativo Multimodal
+# EduIA – Educador Multimodal Inteligente Académico
 
-**EduIA** (Educador Multimodal Inteligente Académico) es un proyecto de investigación y desarrollo para el curso *Procesamiento de Texto e Imágenes con Deep Learning*.
+**EduIA** es un proyecto de investigación y desarrollo para el curso *Procesamiento de Texto e Imágenes con Deep Learning*.
 
 El sistema recibe una pregunta en texto y devuelve:
 - Una **explicación generativa en español**.
