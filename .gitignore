@@ -1,0 +1,47 @@
+# Entornos
+.env
+*.venv
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Modelos y checkpoints pesados
+models/checkpoints/*
+!models/checkpoints/.gitkeep
+*.bin
+*.pt
+*.ckpt
+*.h5
+
+# Resultados y logs
+results/outputs/*
+!results/outputs/.gitkeep
+results/logs/*
+!results/logs/.gitkeep
+
+# Archivos de ejecución HPC
+*.log
+slurm-*.out
+
+# Datos grandes
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+data/prompts/*
+!data/prompts/.gitkeep
+
+# Archivos temporales
+tmp/
+*.tmp
+*.bak
+
+# Virtual envs y paquetes
+venv/
+.venv/
+*.egg-info/
