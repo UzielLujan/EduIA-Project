@@ -19,7 +19,7 @@ Explorar enfoques académicos open source para integrar modelos de lenguaje (FLA
 
 ## 👥 Colaboradores
 - **Uziel Isaí Luján López**  
-- **Diego Paniagua Molina**  
+- **Diego Paniagua Molina**     
 
 ## 📌 Estado
-📍 En desarrollo – versión inicial del proyecto.  
+📍 En desarrollo – versión inicial del proyecto 1.0  
